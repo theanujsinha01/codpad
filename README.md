@@ -1,8 +1,9 @@
 
 <h3>Codpad</h3>
-<h3>Project Descripson : </h3>
+<h3>Project Descripson and Output: </h3>
 
 ![image](https://github.com/theanujsinha01/codpad/assets/136606032/eb1f92bd-1163-42b1-a716-7c994578756e)
+
 
 
 
